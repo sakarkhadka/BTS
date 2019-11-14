@@ -23,7 +23,7 @@ int main() {
     entries.insertItem(44);
     entries.insertItem(66);
     entries.insertItem(90);
-    entries.insertItem(99);
+    entries.insertItem(89);
 
 
 
